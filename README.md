@@ -10,3 +10,4 @@ Neste repositório será apresentado a biblioteca Pandas, uma biblioteca Python 
 **Curso:** Análise de dados com Python e Pandas \
 **Carga horária Curso:** 2 horas \
 **Instrutora:** Fernanda Santos
+**Certificado:** https://drive.google.com/file/d/18vGaxsz-pqCcI55pklOX7ZY2aQX9l7X2/view?usp=sharing
